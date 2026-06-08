@@ -1,2 +1,5 @@
-# dr-biayna-website-1
-Professional dental service website
+# Сайт стоматологии Dr. Biayna
+Профессиональный сайт для стоматологической клиники.
+Стек: HTML, CSS.
+
+Сайт доступен по ссылке: https://amd-11.github.io/dr-biayna-website-1/
